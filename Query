@@ -1,0 +1,1 @@
+Trained deep convolutional neural network, which has 60 million parameters and 650,000 neurons, consists of five convolutional layers, some of which are followed by max-pooling layers, and three fully-connected layers with a final 1000-way softmax to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes. 
